@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709844298 source:c:\users\matheus\engcon\code blocks\pds2_aula1\pds2_aula1.c
+	<stdio.h>
+	<stdlib.h>
+
